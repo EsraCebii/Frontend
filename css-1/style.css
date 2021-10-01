@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+body {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: circle;
+    font-family: 'Zen Loop', cursive;
+    background-color: rgb(228, 220, 220);
+
+}
+h1 {
+    
+    color: rgb(194, 38, 38);
+    size: 50px;
+}
+h2 {
+    size: 30;
+    color: slateblue;
+    font-family: 'Qahiri', sans-serif;
+    
+}
+h3 {
+    size: 25px;
+    color: rgb(61, 60, 60);
+    font-family: 'Qahiri', sans-serif;
+    text-align: left;
+    padding-left: 50px;
+
+}
+footer {
+    background-color: rgb(219, 206, 206);
+    
+}
+.nav {
+    background-color: rgb(212, 197, 197);
+    font-family: 'Qahiri', sans-serif;
+
+
+}
+table {
+    align-items: center;
+    padding-left: 250px;
+    
+}
+td {
+    padding: 10px;
+}
+
